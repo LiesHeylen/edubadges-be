@@ -12,6 +12,11 @@ To find out more about Edubadges, press the [link]() to watch the promotional vi
 
 [Extra information](README) about the Edubadges Belgium POC. 
 
+<style>
+div {
+ float: right;
+}
+</style>
 ### The Team
 
 [Marie De Lange](https://www.linkedin.com/in/marie-de-lange-ab9a8217a/) 
@@ -26,7 +31,8 @@ To find out more about Edubadges, press the [link]() to watch the promotional vi
 [Emma Stoks](https://github.com/emmastoks)
 >Coach
 
-### Partners
+<div>
+ ### Partners
 
 [Arteveldehogeschool](https://www.arteveldehogeschool.be/)
 
@@ -41,4 +47,10 @@ To find out more about Edubadges, press the [link]() to watch the promotional vi
 [KodeKlub](https://kodeklub.nl/)
 
 [Open Knowledge Belgium](https://openknowledge.be/)
+</div>
+
+
+
+
+
 
